@@ -1,6 +1,6 @@
 # Tinder-Clone
 
-raugh
+rough
 
 Firebase
 - Authentication(with Facebook)
