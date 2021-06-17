@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tinder</string>
+    <string name="login">로그인</string>
+    <string name="signup">회원가입</string>
+    <string name="sign_out">로그아웃 하기</string>
+    <string name="show_match_list">매치 리스트 보기</string>
+    <string name="write_name">이름을 입력해주세요</string>
+    <string name="save">저장</string>
+    <string name="no_more_cards">매칭할 카드가 없습니다.</string>
+    <string name="like">LIKE</string>
+    <string name="dislike">DISLIKE</string>
+</resources>
